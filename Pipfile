@@ -4,8 +4,16 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+"discord.py" = "*"
+pandas = "*"
+ta = "*"
+pybit = "*"
+pycryptodome = "*"
+python-dotenv = "*"
+discord = "*"
 
 [dev-packages]
+pre-commit = "*"
 
 [requires]
 python_version = "3.12"
