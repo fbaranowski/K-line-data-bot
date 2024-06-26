@@ -10,7 +10,6 @@ script sends an alert on a given discord channel through bot.
 - ta (Technical Analysis Library)
 - Pandas
 - Pybit
-- Python-dotenv
 
 ## Installation
 
