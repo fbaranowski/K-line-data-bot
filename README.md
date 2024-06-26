@@ -36,5 +36,5 @@ and write necessary variables:
 
 `BYBIT_API_SECRET_KEY=<your_bybit_api_secret_key>`
 
-Finally, being in the directory, where `docker-compose.yml` file is
+Finally, being in the directory where `docker-compose.yml` file is,
 type in cmd `docker-compose up --build` to start the app.
